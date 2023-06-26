@@ -2,10 +2,10 @@
 
 1. Clone the repository
 2. Run command:
-   `cd eqaim`
+   ```cd eqaim```
 3. Makes sure docker and docker compose are installed in the system
 4. Run command, by being in eqaim directory
-   `docker compose up`
+   ```docker compose up```
 5. This should run client, server and database containers
 6. Client is accessible at:
    http://localhost:3000
